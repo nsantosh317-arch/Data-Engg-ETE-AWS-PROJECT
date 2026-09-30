@@ -1,0 +1,11 @@
+CustomerKey,CustomerName,Gender,BirthDate,Email,Country,State,City
+1,Arjun Rao,Male,1988-04-12,arjun.rao@email.com,India,Andhra Pradesh,Tirupati
+2,Priya Sharma,Female,1992-08-21,priya.sharma@email.com,India,Telangana,Hyderabad
+3,Rahul Kumar,Male,1985-11-03,rahul.kumar@email.com,India,Karnataka,Bengaluru
+4,Sneha Reddy,Female,1990-02-15,sneha.reddy@email.com,India,Tamil Nadu,Chennai
+5,Vikram Singh,Male,1987-07-29,vikram.singh@email.com,India,Maharashtra,Mumbai
+6,Ananya Patel,Female,1995-05-18,ananya.patel@email.com,India,Gujarat,Ahmedabad
+7,Kiran Das,Male,1983-09-09,kiran.das@email.com,India,West Bengal,Kolkata
+8,Meera Nair,Female,1993-12-24,meera.nair@email.com,India,Kerala,Kochi
+9,Suresh Babu,Male,1981-06-30,suresh.babu@email.com,India,Andhra Pradesh,Vijayawada
+10,Divya Iyer,Female,1996-01-17,divya.iyer@email.com,India,Tamil Nadu,Coimbatore

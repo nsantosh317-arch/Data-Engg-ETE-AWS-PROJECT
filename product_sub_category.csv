@@ -1,0 +1,14 @@
+SubCategoryKey,CategoryKey,SubCategoryName
+1,1,Mountain Bikes
+2,1,Road Bikes
+3,1,Touring Bikes
+4,2,Brakes
+5,2,Chains
+6,2,Cranksets
+7,2,Derailleurs
+8,3,Jerseys
+9,3,Shorts
+10,3,Gloves
+11,4,Helmets
+12,4,Bottles
+13,4,Locks
